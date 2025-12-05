@@ -5,7 +5,7 @@ setup(
     version='0.1.1',
     packages=find_packages(),
     install_requires=[
-        'python-dotenv==1.0.1',
+        'python-dotenv=>1.0.1',
         'paramiko==3.5.0',
         'termcolor==2.4.0',
         'chardet==5.2.0',
